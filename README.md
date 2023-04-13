@@ -1,2 +1,2 @@
-# brilliant_framework
-Brilliant framework is a concept for a framework in Rust for microservices
+# Objective
+Brilliant framework is intended to be a framework for cloud microservices in Rust
